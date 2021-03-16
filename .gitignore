@@ -1,0 +1,8 @@
+# Ignore node modules
+node_mudule/
+
+# Ignore dist folder
+dist/
+
+#ignore workspace if any
+.code-workspace

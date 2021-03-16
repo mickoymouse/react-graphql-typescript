@@ -1,5 +1,5 @@
 # Ignore node modules
-node_mudule/
+node_mudules/
 
 # Ignore dist folder
 dist/

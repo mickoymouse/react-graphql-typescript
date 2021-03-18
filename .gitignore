@@ -4,5 +4,8 @@ node_modules/
 # Ignore dist folder
 dist/
 
+# Ignore redis dump file
+**.rdb
+
 #ignore workspace if any
 **.code-workspace

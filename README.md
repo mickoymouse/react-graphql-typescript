@@ -3,7 +3,7 @@
 ## This project will use the following:
 
 - React
-- Cookies via Reddis
+- Cookies via Redis
 - Node w/ Express
 - Apollo
 - Mikroorm

@@ -1,4 +1,4 @@
-# This is a playground project (On going) - current version: 0.0.2.
+# This is a playground project (On going) - current version: 0.0.4.
 
 ## This project will use the following:
 
@@ -7,9 +7,9 @@
 - Node w/ Express
 - Apollo
 - Graphql
-- URQL/Apollo
+- URQL
 - Postgresql
-- Mikroorm/TypeORM
+- Mikroorm
 - Typescript
 - Next.js
 - TypeGraphQL
@@ -48,3 +48,13 @@
 ### 0.0.2
 
 1. Implemented redis and cookies.
+
+### 0.0.5
+
+1. Added login and register page (with functionalities).
+2. Added Navbar to home page.
+3. Added cors settings for all routes.
+4. Added logout function.
+5. Implemented updating of cache when login, register, and logout route is called.
+6. Removed cookie whenever user is logged out.
+7. Refactored some by adding global variables and fragments.

@@ -6,10 +6,14 @@
 - Cookies via Redis
 - Node w/ Express
 - Apollo
-- Mikroorm
 - Graphql
+- URQL/Apollo
 - Postgresql
+- Mikroorm/TypeORM
 - Typescript
+- Next.js
+- TypeGraphQL
+- Chakra
 
 ## Getting Started
 

@@ -6,10 +6,14 @@
 - Cookies via Redis
 - Node w/ Express
 - Apollo
-- Mikroorm
 - Graphql
+- URQL/Apollo
 - Postgresql
+- Mikroorm/TypeORM
 - Typescript
+- Next.js
+- TypeGraphQL
+- Chakra
 
 ## Getting Started
 
@@ -37,5 +41,10 @@
 
 ## Versions
 
-0.0.1 - Contains basic CRUD functionalities you can access through graphql.
-0.0.2 - Implemented redis and cookies.
+### 0.0.1
+
+1. Contains basic CRUD functionalities you can access through graphql.
+
+### 0.0.2
+
+1. Implemented redis and cookies.
